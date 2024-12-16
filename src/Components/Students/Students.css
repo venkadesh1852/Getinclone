@@ -1,0 +1,87 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Students h2{
+    text-align: center;
+    color: rgb(43, 43, 196);
+    margin-top: 50px;
+}
+.Students1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 80px;
+}
+.Students2{
+    width: 410px;
+    height: 200px;
+    border: 2px solid black;
+}
+.Students2 h2{
+    color: red;
+    margin-left: 15px;
+}
+.Students2 P{
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 15px;
+}
+.Students2 button{
+    margin-left: 15px;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ea4539;
+    color: white;
+    border: none;
+}
+.Students2 button:hover{
+    background-color: #f61707;
+    cursor: pointer;
+}
+.Students3{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+}
+.Students3 h2{
+    color: rgb(62, 83, 189);
+    margin-left: 15px;
+
+}
+.Students3 P{
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 15px;
+}
+.Students3 button{
+    margin-left: 15px;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ea4539;
+    color: white;
+    border: none;
+}
+.Students4{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+}
+.Students4 h2{
+    color: rgb(189, 68, 185);
+    margin-left: 15px;
+}
+.Students4 P{
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 15px;
+}
+.Students4 button{
+    margin-left: 15px;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ea4539;
+    color: white;
+    border: none;
+}

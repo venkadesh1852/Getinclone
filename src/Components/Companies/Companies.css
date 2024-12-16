@@ -1,0 +1,23 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.company h2{
+    text-align: center;
+    color: blue;
+}
+.Companies{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 80px;
+    grid-row-gap: 20px;
+}
+.Companies1{
+    width: 300px;
+    height: 100px;
+    background-color: wheat;
+    text-align: center;
+    border-radius: 30px;
+}
+.Companies1 img{
+   margin-top: 20px;
+}

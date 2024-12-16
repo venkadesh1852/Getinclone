@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Branches h2{
+    margin-top: 50px;
+    text-align: center;
+    color: blue;
+}
+.Branches1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

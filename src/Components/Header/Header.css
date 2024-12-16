@@ -2,7 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .header{
-    background-color: rgb(60, 8, 189);
+    background-color: #0b47a0;
     color: white;
     display: flex;
     justify-content: space-between;

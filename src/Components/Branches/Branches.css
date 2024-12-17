@@ -10,3 +10,50 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.Branches2{
+    width: 600px;
+    height: 170px;
+    text-align: center;
+    background-color: rgb(220, 211, 211);
+    margin-left: 80px;
+    border-radius: 25px;
+    /* box-shadow: 0 10px 35px 5px rgba(137, 173, 255); */
+}
+.Branches2 img{
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.Branches3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-right: 50px;
+}
+.Branches4{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 80px;
+    
+   
+}
+.Branches4 h2{
+    margin-left: 20px;
+    color: rgb(70, 70, 186);
+}
+.Branches4 p{
+    margin-left: 20px;
+    text-align: justify;
+    margin-right: 20px;
+}
+.Branches4 button{
+    margin-left: 15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ea4539;
+    color: white;
+    border: none;
+}

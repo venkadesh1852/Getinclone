@@ -17,7 +17,7 @@ function Software(){
             <div className='Software'>
                 <h2>Top Software Courses with Placements in Getin Technologies</h2>
             </div>
-            < div className='Sonftware1'>
+            <div className='Sonftware1'>
                 <div className='Sonftware2'>
                     <img src={img7}/>
                     <p>Python Fullstack Training</p>

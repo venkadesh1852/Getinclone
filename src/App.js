@@ -8,6 +8,7 @@ import Companies from'./Components/Companies/Companies';
 import Industries from './Components/Industries/Industries';
 import Students from './Components/Students/Students';
 import Branches from './Components/Branches/Branches';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Industries/>
       <Students/>
       <Branches/>
+      <Footer/>
       </>
     </div>
   );
